@@ -1,0 +1,651 @@
+trans_id,trans_date_trans_time,merchant,category,amt,first,last,gender,city,state,job,is_fraud,merch_lat,merch_long
+TXN100566,2024-01-01 00:51:08,BookMyShow,entertainment,725.24,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1053,72.8661
+TXN100408,2024-01-01 04:04:39,McDonalds India,food_dining,720.38,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0788,72.8678
+TXN100467,2024-01-01 05:49:15,Cafe Coffee Day,food_dining,2076.27,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1159,72.8995
+TXN100239,2024-01-01 07:56:34,Blinkit,grocery_pos,2291.58,Aarav,Sharma,M,Chennai,Tamil Nadu,Software Engineer,0,13.0664,80.2364
+TXN100154,2024-01-01 13:17:28,Cafe Coffee Day,food_dining,810.77,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0810,72.8802
+TXN100349,2024-01-02 00:44:51,Tata CLiQ,shopping_net,12991.44,Aarav,Sharma,M,Delhi,Delhi,Software Engineer,0,28.7013,77.1423
+TXN100598,2024-01-02 17:26:52,Starbucks Coffee,food_dining,1287.93,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0973,72.8891
+TXN100333,2024-01-03 03:05:09,1mg Healthcare,health_fitness,4376.14,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0509,72.8560
+TXN100162,2024-01-03 20:43:31,Spencer Retail,grocery_pos,1743.11,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0952,72.8381
+TXN100345,2024-01-04 13:28:07,Tata CLiQ,shopping_net,5593.01,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0825,72.8972
+TXN100546,2024-01-04 16:21:59,Haldirams,food_dining,1754.15,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0652,72.8448
+TXN100445,2024-01-06 00:31:23,Dr Lal PathLabs,health_fitness,3133.12,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0798,72.8595
+TXN100281,2024-01-06 07:06:44,1mg Healthcare,health_fitness,2350.22,Aarav,Sharma,M,Jaipur,Rajasthan,Software Engineer,0,26.9232,75.7602
+TXN100059,2024-01-06 07:36:02,D-Mart,grocery_pos,3135.35,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0543,72.8918
+TXN100088,2024-01-06 13:57:42,Flipkart,shopping_net,10050.99,Aarav,Sharma,M,Ahmedabad,Gujarat,Software Engineer,0,23.0504,72.5578
+TXN100545,2024-01-07 22:38:21,Starbucks Coffee,food_dining,2183.57,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0810,72.8881
+TXN100145,2024-01-09 03:46:42,More Retail,grocery_pos,3046.04,Aarav,Sharma,M,Pune,Maharashtra,Software Engineer,0,18.5072,73.8313
+TXN100269,2024-01-10 01:45:21,Fastag Toll,travel,4594.41,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1144,72.8620
+TXN100341,2024-01-10 03:43:24,D-Mart,grocery_pos,1782.24,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0799,72.9170
+TXN100422,2024-01-10 19:44:08,1mg Healthcare,health_fitness,2956.70,Aarav,Sharma,M,Kochi,Kerala,Software Engineer,0,9.9140,76.2847
+TXN100541,2024-01-11 07:45:15,Jio Fiber,home_utilities,694.21,Aarav,Sharma,M,Kolkata,West Bengal,Software Engineer,0,22.5860,88.3815
+TXN100335,2024-01-11 10:15:38,Swiggy,food_dining,897.10,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0401,72.8715
+TXN100138,2024-01-11 17:40:43,Flipkart,shopping_net,6759.35,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0825,72.8510
+TXN100483,2024-01-12 00:58:01,Medplus,health_fitness,472.16,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0876,72.8899
+TXN100106,2024-01-13 18:41:06,Netflix India,entertainment,1529.34,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0367,72.8700
+TXN100265,2024-01-15 19:11:27,IRCTC Express,travel,4518.14,Aarav,Sharma,M,Kolkata,West Bengal,Software Engineer,0,22.5599,88.3501
+TXN100364,2024-01-15 23:46:46,Cult.fit,health_fitness,3543.94,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1075,72.9018
+TXN100594,2024-01-16 16:02:11,More Retail,grocery_pos,1866.80,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0435,72.8634
+TXN100007,2024-01-17 07:45:04,Dr Lal PathLabs,health_fitness,5679.63,Aarav,Sharma,M,Kolkata,West Bengal,Software Engineer,0,22.5922,88.3797
+TXN100398,2024-01-17 16:11:04,Apollo Pharmacy,health_fitness,908.84,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0959,72.9111
+TXN100238,2024-01-18 11:22:51,RedBus,travel,2517.51,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0386,72.8440
+TXN100107,2024-01-18 12:37:42,Jio Fiber,home_utilities,4554.15,Aarav,Sharma,M,Chennai,Tamil Nadu,Software Engineer,0,13.1152,80.2737
+TXN100198,2024-01-18 16:44:42,Nature Basket,grocery_pos,1269.78,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0753,72.8444
+TXN100215,2024-01-18 22:57:15,1mg Healthcare,health_fitness,4585.84,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1115,72.8617
+TXN100461,2024-01-19 18:02:35,Jio Fiber,home_utilities,1976.70,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0361,72.8626
+TXN100501,2024-01-19 23:30:30,Starbucks Coffee,food_dining,132.00,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0940,72.8866
+TXN100529,2024-01-20 09:31:50,MakeMyTrip,travel,994.64,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0925,72.9097
+TXN100182,2024-01-21 07:49:26,Urban Company Home Care,home_utilities,1058.18,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0976,72.8671
+TXN100607,2024-01-21 15:29:46,Swiggy,food_dining,2285.80,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1059,72.9085
+TXN100611,2024-01-22 01:45:56,SonyLIV,entertainment,1273.59,Aarav,Sharma,M,Kochi,Kerala,Software Engineer,0,9.9368,76.3071
+TXN100144,2024-01-22 15:25:02,Haldirams,food_dining,2249.46,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0830,72.8823
+TXN100129,2024-01-22 17:22:32,Nature Basket,grocery_pos,1479.97,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0547,72.8937
+TXN100130,2024-01-25 10:27:11,Zomato,food_dining,507.92,Aarav,Sharma,M,Kolkata,West Bengal,Software Engineer,0,22.5710,88.3673
+TXN100080,2024-01-26 04:23:21,Airtel Broadband,home_utilities,1812.73,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0546,72.9138
+TXN100318,2024-01-26 07:44:11,Flipkart,shopping_net,9018.77,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,1,19.0910,72.8853
+TXN100588,2024-01-26 19:12:05,IndiGo Airlines,travel,8397.39,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0438,72.8585
+TXN100550,2024-01-27 04:55:00,Tata Power,home_utilities,4547.27,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0752,72.8762
+TXN100153,2024-01-27 08:31:11,Jio Fiber,home_utilities,4267.29,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1064,72.8673
+TXN100062,2024-01-28 01:49:30,Tata Power,home_utilities,2232.36,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0560,72.9053
+TXN100390,2024-01-28 19:47:32,Dominos Pizza,food_dining,2240.72,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0795,72.8560
+TXN100458,2024-01-28 21:54:16,McDonalds India,food_dining,234.96,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1125,72.8581
+TXN100217,2024-01-28 22:42:18,Tata Power,home_utilities,3397.43,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0415,72.8451
+TXN100014,2024-01-28 23:29:52,Urban Company Home Care,home_utilities,2891.70,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0585,72.8520
+TXN100300,2024-01-29 09:38:47,Airtel Broadband,home_utilities,4723.43,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1007,72.8452
+TXN100356,2024-01-29 14:49:37,Cafe Coffee Day,food_dining,637.87,Aarav,Sharma,M,Chennai,Tamil Nadu,Software Engineer,0,13.1215,80.2361
+TXN100097,2024-01-30 03:32:50,Spotify India,entertainment,602.83,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0783,72.8533
+TXN100459,2024-01-30 06:10:12,Jio Fiber,home_utilities,2325.96,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0789,72.8685
+TXN100307,2024-01-30 13:17:07,Reliance Fresh,grocery_pos,4437.76,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0976,72.8475
+TXN100542,2024-01-30 15:11:46,1mg Healthcare,health_fitness,4256.97,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0789,72.9030
+TXN100589,2024-01-30 17:55:49,Spotify India,entertainment,1018.46,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0771,72.8592
+TXN100494,2024-01-31 01:07:55,Netflix India,entertainment,1635.43,Aarav,Sharma,M,Delhi,Delhi,Software Engineer,0,28.7239,77.1063
+TXN100134,2024-02-02 16:51:10,BSES Yamuna,home_utilities,3089.19,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1035,72.8762
+TXN100336,2024-02-02 19:23:53,RedBus,travel,6474.07,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1026,72.8495
+TXN100252,2024-02-03 06:09:09,Reliance Fresh,grocery_pos,3611.96,Aarav,Sharma,M,Kolkata,West Bengal,Software Engineer,0,22.5609,88.3667
+TXN100372,2024-02-04 07:46:58,Blinkit,grocery_pos,1846.28,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0598,72.8633
+TXN100305,2024-02-04 13:02:06,Disney+ Hotstar,entertainment,955.49,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0995,72.8555
+TXN100061,2024-02-05 02:11:40,Cult.fit,health_fitness,2481.37,Aarav,Sharma,M,Delhi,Delhi,Software Engineer,0,28.6709,77.1377
+TXN100008,2024-02-05 21:44:30,Zomato,food_dining,2396.55,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0970,72.9094
+TXN100609,2024-02-06 17:39:25,Reliance Fresh,grocery_pos,819.52,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0955,72.8521
+TXN100552,2024-02-07 06:11:06,PVR Cinemas,entertainment,898.57,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0938,72.8568
+TXN100187,2024-02-08 15:13:37,Ajio,shopping_net,13789.56,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0406,72.9028
+TXN100514,2024-02-08 23:11:00,BSES Yamuna,home_utilities,2409.21,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0957,72.8445
+TXN100116,2024-02-09 21:00:23,1mg Healthcare,health_fitness,777.84,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0774,72.8622
+TXN100176,2024-02-10 12:06:57,Reliance Fresh,grocery_pos,1909.94,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1148,72.8896
+TXN100237,2024-02-10 21:43:54,Amazon India,shopping_net,13074.60,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0680,72.9071
+TXN100296,2024-02-11 00:53:23,Myntra,shopping_net,3495.15,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1020,72.8898
+TXN100112,2024-02-11 10:24:32,IndiGo Airlines,travel,8368.64,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1042,72.9076
+TXN100152,2024-02-11 18:38:47,Fastag Toll,travel,3161.58,Aarav,Sharma,M,Hyderabad,Telangana,Software Engineer,0,17.4037,78.5093
+TXN100534,2024-02-12 16:58:20,Ola Cabs,travel,4816.07,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0904,72.8932
+TXN100095,2024-02-13 18:15:43,Myntra,shopping_net,9945.74,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,1,19.0624,72.8471
+TXN100495,2024-02-14 00:54:29,Starbucks Coffee,food_dining,1882.80,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0867,72.8744
+TXN100399,2024-02-14 15:02:59,Urban Company Home Care,home_utilities,2864.03,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0471,72.9136
+TXN100513,2024-02-14 15:36:32,Reliance Fresh,grocery_pos,3992.81,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0731,72.8661
+TXN100234,2024-02-15 21:01:04,IRCTC Express,travel,5163.78,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0819,72.9118
+TXN100208,2024-02-16 04:00:35,BookMyShow,entertainment,1128.24,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1041,72.8785
+TXN100314,2024-02-16 05:22:12,Uber India,travel,3478.28,Aarav,Sharma,M,Pune,Maharashtra,Software Engineer,0,18.5330,73.8903
+TXN100340,2024-02-16 09:52:48,PVR Cinemas,entertainment,475.14,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0640,72.8650
+TXN100539,2024-02-16 15:45:32,Nykaa,shopping_net,1132.95,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0906,72.8493
+TXN100185,2024-02-16 18:19:11,BookMyShow,entertainment,1283.84,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0996,72.8892
+TXN100639,2024-02-16 22:11:40,RedBus,travel,379.16,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0481,72.8833
+TXN100605,2024-02-17 03:47:26,BSES Yamuna,home_utilities,1137.20,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0518,72.8626
+TXN100170,2024-02-17 06:36:57,Netflix India,entertainment,688.42,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1153,72.8888
+TXN100045,2024-02-18 03:40:48,Apollo Pharmacy,health_fitness,5783.98,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0534,72.9028
+TXN100048,2024-02-19 05:25:00,BigBasket,grocery_pos,1558.95,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0874,72.8758
+TXN100381,2024-02-19 11:14:13,Dr Lal PathLabs,health_fitness,4964.14,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1090,72.8438
+TXN100039,2024-02-19 20:45:25,Jio Fiber,home_utilities,2290.89,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0929,72.9001
+TXN100388,2024-02-20 20:13:11,IRCTC Express,travel,605.69,Aarav,Sharma,M,Ahmedabad,Gujarat,Software Engineer,0,22.9840,72.5717
+TXN100003,2024-02-21 02:47:51,1mg Healthcare,health_fitness,3280.20,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0937,72.8542
+TXN100271,2024-02-21 13:26:46,Ola Cabs,travel,5805.44,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0548,72.8453
+TXN100377,2024-02-22 18:41:23,Apollo Pharmacy,health_fitness,3487.91,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1061,72.8570
+TXN100386,2024-02-23 08:49:08,MakeMyTrip,travel,3192.84,Aarav,Sharma,M,Pune,Maharashtra,Software Engineer,0,18.4867,73.8857
+TXN100004,2024-02-23 13:24:59,Dr Lal PathLabs,health_fitness,1136.29,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1077,72.8617
+TXN100193,2024-02-24 03:07:02,Jio Fiber,home_utilities,3329.25,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0571,72.9139
+TXN100537,2024-02-24 03:51:16,Amazon India,shopping_net,8059.45,Aarav,Sharma,M,Delhi,Delhi,Software Engineer,0,28.6692,77.0969
+TXN100462,2024-02-24 09:42:45,Reliance Fresh,grocery_pos,4673.87,Aarav,Sharma,M,Kolkata,West Bengal,Software Engineer,0,22.5644,88.3505
+TXN100522,2024-02-24 16:28:08,Cafe Coffee Day,food_dining,515.11,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0628,72.8903
+TXN100601,2024-02-24 22:43:02,Ola Cabs,travel,7851.21,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0849,72.8613
+TXN100289,2024-02-24 23:22:28,Jio Fiber,home_utilities,1686.81,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0723,72.8651
+TXN100511,2024-02-25 04:10:32,Cafe Coffee Day,food_dining,890.20,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0409,72.8391
+TXN100056,2024-02-25 11:05:56,BigBasket,grocery_pos,3151.11,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0659,72.8452
+TXN100146,2024-02-26 23:10:43,BookMyShow,entertainment,607.38,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1047,72.8846
+TXN100350,2024-02-27 09:00:16,RedBus,travel,7411.37,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0583,72.9135
+TXN100622,2024-02-28 05:24:39,Cafe Coffee Day,food_dining,1568.90,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0883,72.8457
+TXN100373,2024-02-28 08:24:31,Amazon India,shopping_net,14188.44,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0943,72.8427
+TXN100374,2024-02-28 13:31:47,Zomato,food_dining,1695.64,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0601,72.8648
+TXN100319,2024-02-28 13:51:14,Myntra,shopping_net,1359.62,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0472,72.8615
+TXN100597,2024-02-28 14:10:11,Nature Basket,grocery_pos,2575.15,Aarav,Sharma,M,Kochi,Kerala,Software Engineer,0,9.9649,76.2382
+TXN100195,2024-02-29 12:31:30,Dominos Pizza,food_dining,1562.88,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0974,72.8809
+TXN100274,2024-02-29 12:32:27,Apollo Pharmacy,health_fitness,4287.75,Aarav,Sharma,M,Hyderabad,Telangana,Software Engineer,0,17.3626,78.4635
+TXN100030,2024-02-29 16:24:13,Reliance Fresh,grocery_pos,4181.49,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0766,72.8755
+TXN100485,2024-03-01 02:48:37,Ajio,shopping_net,7789.53,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0703,72.8787
+TXN100384,2024-03-01 07:57:24,Reliance Fresh,grocery_pos,1627.76,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0850,72.9072
+TXN100424,2024-03-01 10:03:31,McDonalds India,food_dining,2229.77,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0778,72.8854
+TXN100469,2024-03-01 11:40:46,IndiGo Airlines,travel,6214.87,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0591,72.8720
+TXN100630,2024-03-02 15:07:42,Disney+ Hotstar,entertainment,441.67,Aarav,Sharma,M,Kolkata,West Bengal,Software Engineer,0,22.5670,88.3479
+TXN100635,2024-03-02 23:44:54,IRCTC Express,travel,2060.50,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0898,72.9054
+TXN100551,2024-03-03 05:43:02,Cafe Coffee Day,food_dining,577.36,Aarav,Sharma,M,Hyderabad,Telangana,Software Engineer,0,17.4201,78.4469
+TXN100554,2024-03-03 19:55:14,Apollo Pharmacy,health_fitness,3633.24,Aarav,Sharma,M,Chennai,Tamil Nadu,Software Engineer,0,13.0549,80.2915
+TXN100583,2024-03-03 21:10:42,MakeMyTrip,travel,1754.26,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0521,72.8882
+TXN100610,2024-03-04 10:26:52,Cult.fit,health_fitness,592.99,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0462,72.9044
+TXN100426,2024-03-04 23:53:46,Croma Online,shopping_net,2367.88,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0535,72.8471
+TXN100256,2024-03-05 00:28:26,Dr Lal PathLabs,health_fitness,477.34,Aarav,Sharma,M,Kolkata,West Bengal,Software Engineer,0,22.5625,88.3380
+TXN100565,2024-03-05 12:41:32,More Retail,grocery_pos,975.20,Aarav,Sharma,M,Jaipur,Rajasthan,Software Engineer,0,26.8868,75.7646
+TXN100520,2024-03-05 19:04:31,BSES Yamuna,home_utilities,4817.52,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0613,72.8760
+TXN100084,2024-03-06 05:37:58,Airtel Broadband,home_utilities,823.74,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0630,72.8888
+TXN100310,2024-03-06 17:53:48,1mg Healthcare,health_fitness,6104.68,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0770,72.8700
+TXN100518,2024-03-07 00:37:08,Uber India,travel,3113.15,Aarav,Sharma,M,Bengaluru,Karnataka,Software Engineer,0,12.9956,77.5903
+TXN100547,2024-03-07 04:54:18,Cafe Coffee Day,food_dining,1594.51,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0760,72.8961
+TXN100475,2024-03-08 00:06:12,Flipkart,shopping_net,2615.56,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0451,72.8513
+TXN100109,2024-03-09 19:38:08,Ajio,shopping_net,2516.91,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0899,72.8642
+TXN100255,2024-03-10 18:59:33,Myntra,shopping_net,10579.46,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0554,72.8503
+TXN100247,2024-03-11 18:17:43,Flipkart,shopping_net,8690.46,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0877,72.8721
+TXN100222,2024-03-11 22:42:27,Spencer Retail,grocery_pos,576.30,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0508,72.8758
+TXN100359,2024-03-11 22:58:27,Zomato,food_dining,436.28,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1153,72.9108
+TXN100260,2024-03-12 09:38:37,BSES Yamuna,home_utilities,1103.91,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0722,72.8849
+TXN100242,2024-03-13 02:21:45,Uber India,travel,1048.13,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0969,72.8571
+TXN100024,2024-03-13 02:33:44,Dr Lal PathLabs,health_fitness,4309.02,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0789,72.9030
+TXN100151,2024-03-15 01:12:08,Airtel Broadband,home_utilities,1395.13,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0873,72.8617
+TXN100011,2024-03-15 07:54:50,Netflix India,entertainment,662.03,Aarav,Sharma,M,Jaipur,Rajasthan,Software Engineer,0,26.9089,75.7990
+TXN100104,2024-03-16 00:34:45,Apollo Pharmacy,health_fitness,3107.30,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0377,72.8948
+TXN100196,2024-03-16 05:39:16,Swiggy,food_dining,786.52,Aarav,Sharma,M,Chennai,Tamil Nadu,Software Engineer,0,13.1061,80.2765
+TXN100186,2024-03-16 11:30:50,Dr Lal PathLabs,health_fitness,2808.09,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0360,72.8817
+TXN100131,2024-03-18 12:30:34,Jio Fiber,home_utilities,4998.18,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0925,72.8747
+TXN100102,2024-03-20 02:25:37,IndiGo Airlines,travel,387.52,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0651,72.9103
+TXN100285,2024-03-20 12:15:40,Cult.fit,health_fitness,4052.29,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0688,72.8628
+TXN100577,2024-03-21 13:08:09,BSES Yamuna,home_utilities,808.12,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0448,72.8435
+TXN100409,2024-03-22 17:00:52,IRCTC Express,travel,2819.22,Aarav,Sharma,M,Kochi,Kerala,Software Engineer,0,9.9158,76.2799
+TXN100049,2024-03-23 10:02:18,Nature Basket,grocery_pos,2999.05,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0485,72.8857
+TXN100621,2024-03-25 03:48:57,BigBasket,grocery_pos,651.83,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0724,72.8813
+TXN100618,2024-03-26 00:17:49,PVR Cinemas,entertainment,940.69,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0807,72.9086
+TXN100068,2024-03-26 13:49:51,Jio Fiber,home_utilities,1771.09,Aarav,Sharma,M,Kochi,Kerala,Software Engineer,0,9.9171,76.2750
+TXN100005,2024-03-26 22:18:47,Cult.fit,health_fitness,3135.31,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0726,72.9006
+TXN100276,2024-03-27 02:20:57,Urban Company Home Care,home_utilities,1901.48,Aarav,Sharma,M,Hyderabad,Telangana,Software Engineer,0,17.3521,78.4811
+TXN100504,2024-03-27 23:55:44,Disney+ Hotstar,entertainment,408.21,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0762,72.8635
+TXN100013,2024-03-28 15:06:20,Dr Lal PathLabs,health_fitness,2963.00,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0523,72.9112
+TXN100085,2024-03-29 05:33:49,Tata CLiQ,shopping_net,9445.59,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0364,72.8471
+TXN100142,2024-03-31 10:05:09,Cafe Coffee Day,food_dining,610.81,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0957,72.9057
+TXN100580,2024-03-31 11:49:58,Dominos Pizza,food_dining,586.69,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0752,72.8874
+TXN100510,2024-03-31 22:33:28,Fastag Toll,travel,1229.86,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1054,72.8804
+TXN100223,2024-04-01 16:25:25,Apollo Pharmacy,health_fitness,4269.20,Aarav,Sharma,M,Jaipur,Rajasthan,Software Engineer,0,26.9001,75.7723
+TXN100382,2024-04-01 19:45:25,Zomato,food_dining,2319.70,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1136,72.8856
+TXN100369,2024-04-01 22:00:25,BSES Yamuna,home_utilities,1933.66,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0683,72.8513
+TXN100572,2024-04-02 12:07:03,Urban Company Home Care,home_utilities,4915.58,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0930,72.8784
+TXN100043,2024-04-03 00:59:34,Paradise Biryani,food_dining,851.30,Aarav,Sharma,M,Delhi,Delhi,Software Engineer,0,28.6986,77.0956
+TXN100353,2024-04-03 16:38:11,Netflix India,entertainment,464.64,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0638,72.8935
+TXN100500,2024-04-04 08:47:40,SonyLIV,entertainment,1613.88,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0691,72.8469
+TXN100343,2024-04-04 17:16:24,Dr Lal PathLabs,health_fitness,878.85,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1133,72.8399
+TXN100226,2024-04-05 04:01:26,D-Mart,grocery_pos,580.77,Aarav,Sharma,M,Hyderabad,Telangana,Software Engineer,0,17.4089,78.5111
+TXN100640,2024-04-06 05:28:42,Zomato,food_dining,1067.78,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0458,72.8707
+TXN100327,2024-04-06 14:31:03,Spotify India,entertainment,595.04,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0694,72.8387
+TXN100121,2024-04-07 06:13:42,Medplus,health_fitness,5649.12,Aarav,Sharma,M,Kolkata,West Bengal,Software Engineer,0,22.5711,88.4002
+TXN100578,2024-04-07 08:01:27,Reliance Fresh,grocery_pos,2126.70,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1109,72.8926
+TXN100415,2024-04-07 11:15:54,Fastag Toll,travel,1400.80,Aarav,Sharma,M,Jaipur,Rajasthan,Software Engineer,0,26.8943,75.7806
+TXN100230,2024-04-10 05:55:06,Spotify India,entertainment,831.32,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1125,72.8642
+TXN100473,2024-04-10 11:30:55,Airtel Broadband,home_utilities,1276.23,Aarav,Sharma,M,Hyderabad,Telangana,Software Engineer,0,17.3679,78.5101
+TXN100283,2024-04-11 16:01:44,Nykaa,shopping_net,4847.45,Aarav,Sharma,M,Hyderabad,Telangana,Software Engineer,0,17.4058,78.4847
+TXN100604,2024-04-12 04:59:12,Tata Power,home_utilities,966.87,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1040,72.8550
+TXN100406,2024-04-12 13:27:32,Airtel Broadband,home_utilities,1355.98,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0563,72.8538
+TXN100029,2024-04-14 04:59:44,Apollo Pharmacy,health_fitness,2350.70,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0975,72.9084
+TXN100394,2024-04-14 06:49:06,Cult.fit,health_fitness,5189.82,Aarav,Sharma,M,Ahmedabad,Gujarat,Software Engineer,0,23.0575,72.5564
+TXN100480,2024-04-15 16:41:41,Tata CLiQ,shopping_net,10020.52,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1093,72.9080
+TXN100430,2024-04-16 12:28:45,Amazon India,shopping_net,14364.26,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1004,72.8447
+TXN100486,2024-04-17 15:34:14,Haldirams,food_dining,2042.12,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0828,72.9107
+TXN100291,2024-04-17 16:44:27,IndiGo Airlines,travel,1989.65,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0746,72.8826
+TXN100284,2024-04-17 21:07:27,Ajio,shopping_net,14164.18,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0660,72.8598
+TXN100312,2024-04-17 21:13:44,Dr Lal PathLabs,health_fitness,3192.16,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1050,72.9091
+TXN100532,2024-04-19 04:51:50,Apollo Pharmacy,health_fitness,1882.02,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0957,72.8912
+TXN100150,2024-04-19 15:04:04,Ola Cabs,travel,8255.53,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0762,72.8983
+TXN100103,2024-04-19 16:38:25,Fastag Toll,travel,1664.94,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0436,72.8714
+TXN100626,2024-04-22 03:45:52,Uber India,travel,3937.29,Aarav,Sharma,M,Chennai,Tamil Nadu,Software Engineer,0,13.0653,80.2940
+TXN100143,2024-04-22 04:38:06,Medplus,health_fitness,3547.83,Aarav,Sharma,M,Hyderabad,Telangana,Software Engineer,0,17.3982,78.4670
+TXN100180,2024-04-22 12:28:44,Amazon India,shopping_net,7096.25,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0539,72.8686
+TXN100073,2024-04-22 22:29:47,Tata Power,home_utilities,1371.43,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0496,72.8577
+TXN100120,2024-04-23 04:43:37,Airtel Broadband,home_utilities,4396.66,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0651,72.9067
+TXN100348,2024-04-23 04:48:55,BookMyShow,entertainment,1236.21,Aarav,Sharma,M,Kolkata,West Bengal,Software Engineer,0,22.5771,88.3972
+TXN100052,2024-04-23 07:51:25,Amazon India,shopping_net,5417.24,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1159,72.8505
+TXN100612,2024-04-23 13:04:23,Croma Online,shopping_net,3165.07,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0782,72.9155
+TXN100114,2024-04-23 13:29:43,Tata CLiQ,shopping_net,3673.64,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0947,72.8953
+TXN100371,2024-04-23 22:47:27,PVR Cinemas,entertainment,681.15,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0598,72.8491
+TXN100245,2024-04-24 08:55:28,PVR Cinemas,entertainment,489.94,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0901,72.8679
+TXN100421,2024-04-24 19:11:31,Spotify India,entertainment,1781.12,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0543,72.8737
+TXN100641,2024-04-25 20:00:26,Nature Basket,grocery_pos,3302.54,Aarav,Sharma,M,Pune,Maharashtra,Software Engineer,0,18.4952,73.8375
+TXN100355,2024-04-27 14:42:51,Jio Fiber,home_utilities,2432.27,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0707,72.8678
+TXN100282,2024-04-27 16:32:05,IRCTC Express,travel,4842.30,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0647,72.8909
+TXN100413,2024-04-27 22:48:50,RedBus,travel,4306.32,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0885,72.8509
+TXN100434,2024-04-30 19:38:27,Myntra,shopping_net,4547.70,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0805,72.8591
+TXN100562,2024-04-30 20:09:58,Uber India,travel,282.31,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0644,72.8641
+TXN100232,2024-05-02 01:53:59,Fastag Toll,travel,1414.01,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1094,72.9159
+TXN100298,2024-05-03 06:12:19,IRCTC Express,travel,1750.59,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0597,72.9073
+TXN100299,2024-05-03 07:21:12,Nykaa,shopping_net,11674.91,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0513,72.8433
+TXN100487,2024-05-04 10:23:58,Dr Lal PathLabs,health_fitness,6083.06,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0784,72.8621
+TXN100526,2024-05-04 10:34:58,Zomato,food_dining,1066.35,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0536,72.8725
+TXN100119,2024-05-04 15:42:56,Amazon India,shopping_net,13036.54,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0680,72.9166
+TXN100385,2024-05-05 20:58:24,Ajio,shopping_net,3291.09,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1110,72.8477
+TXN100249,2024-05-06 04:07:01,Croma Online,shopping_net,5579.95,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0894,72.8709
+TXN100404,2024-05-06 04:40:54,McDonalds India,food_dining,1150.44,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0543,72.8756
+TXN100351,2024-05-06 12:52:12,Jio Fiber,home_utilities,1012.61,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0444,72.8668
+TXN100040,2024-05-06 17:48:42,PVR Cinemas,entertainment,1325.89,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0489,72.8999
+TXN100183,2024-05-07 05:03:29,Netflix India,entertainment,1647.87,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1146,72.8533
+TXN100506,2024-05-07 10:24:10,Paradise Biryani,food_dining,699.01,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1127,72.9071
+TXN100560,2024-05-08 02:01:50,Dr Lal PathLabs,health_fitness,3594.06,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0518,72.8472
+TXN100632,2024-05-09 04:39:12,IndiGo Airlines,travel,4004.62,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1116,72.9166
+TXN100407,2024-05-10 02:30:14,Cult.fit,health_fitness,4421.38,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0534,72.9158
+TXN100031,2024-05-10 03:28:05,Myntra,shopping_net,2165.70,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0935,72.8529
+TXN100099,2024-05-10 05:11:11,IndiGo Airlines,travel,8207.53,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0756,72.8834
+TXN100325,2024-05-10 05:48:38,Spotify India,entertainment,1423.15,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0850,72.8842
+TXN100213,2024-05-10 20:43:45,Zomato,food_dining,1097.78,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0987,72.8646
+TXN100302,2024-05-12 00:24:32,Netflix India,entertainment,571.52,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1086,72.8894
+TXN100491,2024-05-13 12:36:19,Jio Fiber,home_utilities,3288.68,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0658,72.8793
+TXN100020,2024-05-13 17:07:46,Nature Basket,grocery_pos,2987.54,Aarav,Sharma,M,Ahmedabad,Gujarat,Software Engineer,0,23.0285,72.5962
+TXN100370,2024-05-14 13:00:33,Starbucks Coffee,food_dining,1700.32,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0512,72.8859
+TXN100141,2024-05-14 14:00:19,More Retail,grocery_pos,4608.17,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0524,72.8570
+TXN100124,2024-05-14 20:07:46,Tata CLiQ,shopping_net,13952.70,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0379,72.8473
+TXN100642,2024-05-15 01:18:46,1mg Healthcare,health_fitness,5867.45,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0860,72.9033
+TXN100155,2024-05-18 08:39:33,Apollo Pharmacy,health_fitness,4925.40,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1076,72.8666
+TXN100243,2024-05-18 09:27:22,Zomato,food_dining,142.75,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0899,72.9039
+TXN100086,2024-05-18 23:28:31,Starbucks Coffee,food_dining,2372.07,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0514,72.8929
+TXN100047,2024-05-19 20:32:14,Spotify India,entertainment,358.89,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0824,72.8620
+TXN100417,2024-05-20 08:55:51,Paradise Biryani,food_dining,222.03,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0808,72.8772
+TXN100581,2024-05-21 08:55:11,More Retail,grocery_pos,753.40,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0475,72.8805
+TXN100017,2024-05-21 13:10:21,Uber India,travel,4737.19,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0899,72.8581
+TXN100425,2024-05-21 16:35:35,Medplus,health_fitness,1678.21,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1159,72.9058
+TXN100432,2024-05-22 00:02:23,Medplus,health_fitness,3991.08,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1004,72.8596
+TXN100638,2024-05-23 12:14:26,Flipkart,shopping_net,4651.23,Aarav,Sharma,M,Kochi,Kerala,Software Engineer,0,9.9658,76.2879
+TXN100293,2024-05-24 04:17:59,MakeMyTrip,travel,3754.39,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0790,72.8424
+TXN100227,2024-05-24 07:23:22,1mg Healthcare,health_fitness,2554.48,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0590,72.8453
+TXN100165,2024-05-24 20:00:18,SonyLIV,entertainment,1493.78,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0503,72.8611
+TXN100118,2024-05-25 04:32:04,D-Mart,grocery_pos,4414.84,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0689,72.8996
+TXN100452,2024-05-25 06:17:19,Cafe Coffee Day,food_dining,1546.53,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0967,72.9057
+TXN100297,2024-05-25 12:46:33,Dr Lal PathLabs,health_fitness,3341.69,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0938,72.8824
+TXN100290,2024-05-25 22:47:26,1mg Healthcare,health_fitness,4759.16,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0937,72.8965
+TXN100228,2024-05-26 19:55:17,Nature Basket,grocery_pos,1237.99,Aarav,Sharma,M,Ahmedabad,Gujarat,Software Engineer,0,23.0214,72.5934
+TXN100212,2024-05-28 21:38:29,Blinkit,grocery_pos,2382.98,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0812,72.8447
+TXN100596,2024-05-29 07:43:01,Spencer Retail,grocery_pos,1478.16,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0854,72.9029
+TXN100079,2024-05-30 06:46:06,Myntra,shopping_net,5142.30,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0961,72.8645
+TXN100387,2024-05-30 13:05:59,Nature Basket,grocery_pos,967.30,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0870,72.8818
+TXN100126,2024-05-30 13:48:20,McDonalds India,food_dining,360.25,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0594,72.8998
+TXN100558,2024-05-30 13:50:51,Uber India,travel,4688.61,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0502,72.9173
+TXN100330,2024-05-31 17:52:19,Spotify India,entertainment,1068.22,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1006,72.9160
+TXN100241,2024-06-01 09:42:34,Nykaa,shopping_net,9537.04,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0851,72.8549
+TXN100342,2024-06-02 19:49:07,1mg Healthcare,health_fitness,550.72,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1078,72.8589
+TXN100328,2024-06-03 07:42:16,PVR Cinemas,entertainment,1225.59,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0938,72.8937
+TXN100508,2024-06-03 12:37:18,Croma Online,shopping_net,9816.27,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1112,72.8930
+TXN100022,2024-06-05 20:19:22,Dr Lal PathLabs,health_fitness,676.66,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0686,72.8993
+TXN100338,2024-06-06 01:05:26,Jio Fiber,home_utilities,4658.43,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0713,72.8791
+TXN100360,2024-06-06 04:22:50,Dominos Pizza,food_dining,580.30,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0988,72.9093
+TXN100352,2024-06-07 10:43:40,Fastag Toll,travel,3035.62,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1125,72.9064
+TXN100471,2024-06-07 15:39:07,BigBasket,grocery_pos,3060.41,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1102,72.8709
+TXN100028,2024-06-07 16:33:48,Uber India,travel,4163.43,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1012,72.8534
+TXN100528,2024-06-07 16:34:13,Medplus,health_fitness,783.40,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0513,72.9125
+TXN100591,2024-06-09 09:54:23,BSES Yamuna,home_utilities,2931.45,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0590,72.8652
+TXN100613,2024-06-09 17:26:55,Cult.fit,health_fitness,2392.02,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1149,72.8911
+TXN100476,2024-06-10 05:39:19,Reliance Fresh,grocery_pos,2350.78,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0878,72.8883
+TXN100505,2024-06-10 09:26:55,Netflix India,entertainment,1548.91,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1144,72.8709
+TXN100295,2024-06-11 02:58:49,Zomato,food_dining,1383.62,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0976,72.9128
+TXN100590,2024-06-11 05:07:29,Dr Lal PathLabs,health_fitness,3154.58,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0405,72.9103
+TXN100543,2024-06-12 10:57:10,Myntra,shopping_net,1493.94,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1007,72.9168
+TXN100210,2024-06-12 15:16:20,Nature Basket,grocery_pos,4790.99,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0768,72.8816
+TXN100051,2024-06-13 11:05:51,Amazon India,shopping_net,8171.24,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0522,72.8734
+TXN100576,2024-06-13 16:33:47,Medplus,health_fitness,3132.74,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0882,72.8955
+TXN100429,2024-06-14 15:55:49,IndiGo Airlines,travel,5228.05,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1117,72.8714
+TXN100214,2024-06-14 18:38:19,Netflix India,entertainment,718.55,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0372,72.8704
+TXN100478,2024-06-15 08:18:59,BSES Yamuna,home_utilities,4873.87,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0827,72.9043
+TXN100375,2024-06-16 02:04:11,Medplus,health_fitness,4257.70,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0736,72.8557
+TXN100477,2024-06-17 00:20:57,BSES Yamuna,home_utilities,1746.11,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0376,72.8875
+TXN100264,2024-06-17 00:40:29,McDonalds India,food_dining,665.92,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0809,72.8804
+TXN100403,2024-06-17 10:21:41,SonyLIV,entertainment,1698.29,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0481,72.9033
+TXN100650,2024-06-17 15:20:53,Haldirams,food_dining,2346.59,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0487,72.8496
+TXN100191,2024-06-18 00:32:04,BigBasket,grocery_pos,3803.98,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1157,72.8480
+TXN100067,2024-06-18 00:59:23,Disney+ Hotstar,entertainment,1681.44,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0981,72.9161
+TXN100258,2024-06-18 05:02:46,Flipkart,shopping_net,12392.80,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,1,19.0609,72.9124
+TXN100202,2024-06-18 23:05:19,Cafe Coffee Day,food_dining,221.71,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0617,72.8857
+TXN100354,2024-06-19 00:56:03,Fastag Toll,travel,6569.52,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1004,72.8443
+TXN100266,2024-06-19 14:10:54,Flipkart,shopping_net,5247.41,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0361,72.8710
+TXN100094,2024-06-20 02:45:55,Fastag Toll,travel,8334.48,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0931,72.8448
+TXN100616,2024-06-20 19:58:19,RedBus,travel,1661.94,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0830,72.8689
+TXN100279,2024-06-20 23:45:39,D-Mart,grocery_pos,3310.89,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0511,72.8649
+TXN100383,2024-06-21 10:41:40,IRCTC Express,travel,700.21,Aarav,Sharma,M,Kolkata,West Bengal,Software Engineer,0,22.5945,88.3413
+TXN100519,2024-06-21 12:34:15,BigBasket,grocery_pos,3873.93,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0995,72.8488
+TXN100301,2024-06-22 08:39:07,IndiGo Airlines,travel,5169.78,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0617,72.8819
+TXN100602,2024-06-22 13:08:48,BSES Yamuna,home_utilities,4185.24,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0766,72.8573
+TXN100178,2024-06-23 01:46:45,IRCTC Express,travel,5634.13,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0916,72.8965
+TXN100392,2024-06-23 08:19:10,Ola Cabs,travel,6700.32,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0462,72.8749
+TXN100275,2024-06-23 19:40:17,Cult.fit,health_fitness,4694.04,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0806,72.8414
+TXN100304,2024-06-24 05:56:54,Nykaa,shopping_net,5356.00,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0491,72.8991
+TXN100444,2024-06-24 10:02:01,Spotify India,entertainment,728.87,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0871,72.9052
+TXN100361,2024-06-24 13:32:27,Apollo Pharmacy,health_fitness,3089.11,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1028,72.9147
+TXN100303,2024-06-24 16:40:51,1mg Healthcare,health_fitness,2331.78,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0960,72.8716
+TXN100158,2024-06-25 15:39:45,RedBus,travel,3333.24,Aarav,Sharma,M,Chennai,Tamil Nadu,Software Engineer,0,13.1094,80.2728
+TXN100317,2024-06-25 16:52:41,Reliance Fresh,grocery_pos,3312.62,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0835,72.8630
+TXN100599,2024-06-26 11:55:31,Medplus,health_fitness,1901.82,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0399,72.8768
+TXN100405,2024-06-26 18:23:37,D-Mart,grocery_pos,2113.74,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0433,72.8729
+TXN100457,2024-06-27 13:57:44,Medplus,health_fitness,3477.38,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1113,72.8475
+TXN100253,2024-06-27 23:12:35,Nykaa,shopping_net,5565.09,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0594,72.9103
+TXN100482,2024-06-28 13:10:09,Cafe Coffee Day,food_dining,1192.93,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0736,72.8411
+TXN100582,2024-06-28 15:43:57,MakeMyTrip,travel,6379.98,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0726,72.9087
+TXN100164,2024-06-28 19:31:38,1mg Healthcare,health_fitness,434.50,Aarav,Sharma,M,Ahmedabad,Gujarat,Software Engineer,0,22.9967,72.5650
+TXN100311,2024-06-29 00:09:00,PVR Cinemas,entertainment,1202.10,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0482,72.8483
+TXN100575,2024-06-29 14:48:06,Ajio,shopping_net,7862.11,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1138,72.8871
+TXN100646,2024-06-29 23:48:25,Disney+ Hotstar,entertainment,1601.26,Aarav,Sharma,M,Kolkata,West Bengal,Software Engineer,0,22.6006,88.3806
+TXN100105,2024-06-30 12:14:03,Spotify India,entertainment,921.28,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0643,72.8818
+TXN100559,2024-06-30 16:32:48,1mg Healthcare,health_fitness,1329.55,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0408,72.9120
+TXN100161,2024-06-30 16:56:37,IRCTC Express,travel,5761.27,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1043,72.8448
+TXN100015,2024-07-01 00:40:14,Spotify India,entertainment,881.08,Aarav,Sharma,M,Kolkata,West Bengal,Software Engineer,0,22.5788,88.3519
+TXN100431,2024-07-01 23:16:05,Disney+ Hotstar,entertainment,1781.42,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1141,72.9081
+TXN100365,2024-07-02 20:08:32,Myntra,shopping_net,13353.27,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0473,72.8878
+TXN100466,2024-07-04 23:05:24,McDonalds India,food_dining,1406.72,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0919,72.8905
+TXN100553,2024-07-06 03:59:12,Croma Online,shopping_net,4442.53,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0983,72.8831
+TXN100108,2024-07-07 02:27:26,Tata Power,home_utilities,4482.33,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0735,72.8563
+TXN100125,2024-07-07 07:01:42,Jio Fiber,home_utilities,1845.56,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0548,72.9016
+TXN100649,2024-07-07 11:24:01,Jio Fiber,home_utilities,3528.75,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0454,72.9111
+TXN100036,2024-07-08 11:50:30,Swiggy,food_dining,1549.66,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0389,72.8683
+TXN100437,2024-07-09 13:11:21,SonyLIV,entertainment,948.80,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0833,72.8630
+TXN100397,2024-07-10 06:40:43,Fastag Toll,travel,964.34,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0963,72.9086
+TXN100054,2024-07-10 17:49:52,Zomato,food_dining,1977.11,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1059,72.8602
+TXN100556,2024-07-11 12:44:27,Haldirams,food_dining,914.35,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0534,72.8890
+TXN100524,2024-07-12 22:33:16,Reliance Fresh,grocery_pos,1290.13,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1114,72.8505
+TXN100593,2024-07-13 04:38:57,Cult.fit,health_fitness,2141.38,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0790,72.8726
+TXN100174,2024-07-13 14:59:34,Fastag Toll,travel,843.22,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0594,72.8516
+TXN100555,2024-07-14 11:55:29,Reliance Fresh,grocery_pos,3786.81,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0834,72.8755
+TXN100326,2024-07-14 13:39:15,Dr Lal PathLabs,health_fitness,1377.42,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0495,72.8934
+TXN100376,2024-07-14 17:28:09,BSES Yamuna,home_utilities,1897.24,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0861,72.8671
+TXN100620,2024-07-15 07:50:14,IRCTC Express,travel,7661.14,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0988,72.8979
+TXN100175,2024-07-15 10:00:08,Spencer Retail,grocery_pos,2393.30,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0747,72.9031
+TXN100367,2024-07-15 11:01:22,Tata Power,home_utilities,1668.17,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1139,72.8575
+TXN100250,2024-07-15 16:15:36,IRCTC Express,travel,3319.64,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0903,72.8696
+TXN100617,2024-07-15 22:27:36,Flipkart,shopping_net,9120.08,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0476,72.9163
+TXN100204,2024-07-17 20:40:29,Uber India,travel,4556.01,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0807,72.8683
+TXN100517,2024-07-17 22:31:20,Haldirams,food_dining,1096.54,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0933,72.8587
+TXN100625,2024-07-18 07:37:43,BigBasket,grocery_pos,3289.33,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0531,72.9055
+TXN100481,2024-07-18 10:27:24,Myntra,shopping_net,13120.29,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0673,72.8509
+TXN100076,2024-07-18 17:11:23,Airtel Broadband,home_utilities,718.55,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0763,72.8712
+TXN100492,2024-07-19 02:01:09,1mg Healthcare,health_fitness,4114.40,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1019,72.8824
+TXN100156,2024-07-19 03:46:13,PVR Cinemas,entertainment,422.47,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1024,72.8410
+TXN100308,2024-07-19 06:56:35,Ajio,shopping_net,10134.03,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0544,72.8872
+TXN100339,2024-07-19 10:36:42,McDonalds India,food_dining,1224.16,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0808,72.8530
+TXN100464,2024-07-19 20:21:36,Nykaa,shopping_net,2308.42,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0961,72.8766
+TXN100123,2024-07-20 06:22:10,Spencer Retail,grocery_pos,2702.97,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0966,72.8450
+TXN100584,2024-07-20 08:47:23,Zomato,food_dining,725.02,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0780,72.8924
+TXN100113,2024-07-20 10:52:35,PVR Cinemas,entertainment,1668.30,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0415,72.8406
+TXN100248,2024-07-21 19:40:10,Ola Cabs,travel,3099.67,Aarav,Sharma,M,Hyderabad,Telangana,Software Engineer,0,17.3608,78.4962
+TXN100455,2024-07-21 20:45:05,Blinkit,grocery_pos,2912.62,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1124,72.8579
+TXN100002,2024-07-22 03:17:35,BookMyShow,entertainment,1642.59,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0642,72.8932
+TXN100490,2024-07-22 21:57:04,Croma Online,shopping_net,1009.06,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1126,72.8599
+TXN100570,2024-07-23 22:04:35,Blinkit,grocery_pos,1985.13,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1023,72.8866
+TXN100148,2024-07-24 00:42:19,D-Mart,grocery_pos,3852.60,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1135,72.8719
+TXN100203,2024-07-24 02:40:13,Swiggy,food_dining,905.66,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0882,72.9010
+TXN100488,2024-07-24 21:18:54,MakeMyTrip,travel,1792.60,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1021,72.9041
+TXN100615,2024-07-26 04:23:05,SonyLIV,entertainment,962.85,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0363,72.8896
+TXN100200,2024-07-26 06:04:18,Blinkit,grocery_pos,1940.28,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0848,72.8806
+TXN100078,2024-07-27 06:53:44,Spencer Retail,grocery_pos,2103.60,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1075,72.8613
+TXN100516,2024-07-27 23:20:21,PVR Cinemas,entertainment,1745.12,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0496,72.8814
+TXN100595,2024-07-28 08:16:10,D-Mart,grocery_pos,4609.86,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1135,72.8442
+TXN100419,2024-07-28 10:43:45,D-Mart,grocery_pos,1941.29,Aarav,Sharma,M,Kolkata,West Bengal,Software Engineer,0,22.5490,88.3876
+TXN100027,2024-07-28 19:20:55,Paradise Biryani,food_dining,570.79,Aarav,Sharma,M,Chennai,Tamil Nadu,Software Engineer,0,13.0508,80.2381
+TXN100569,2024-07-28 20:45:48,Spotify India,entertainment,1318.01,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0937,72.8500
+TXN100447,2024-07-29 06:59:17,Disney+ Hotstar,entertainment,1525.14,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0390,72.8937
+TXN100564,2024-07-29 16:16:00,IndiGo Airlines,travel,186.46,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0430,72.8653
+TXN100536,2024-07-30 13:09:39,Spencer Retail,grocery_pos,2294.25,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0768,72.8555
+TXN100474,2024-07-31 06:42:40,McDonalds India,food_dining,1151.66,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1016,72.8529
+TXN100420,2024-07-31 08:44:48,Swiggy,food_dining,2365.66,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1077,72.8843
+TXN100181,2024-07-31 10:27:46,Flipkart,shopping_net,8376.16,Aarav,Sharma,M,Delhi,Delhi,Software Engineer,0,28.6983,77.0840
+TXN100101,2024-07-31 20:57:02,Flipkart,shopping_net,4940.81,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0600,72.9019
+TXN100163,2024-08-01 07:32:42,Airtel Broadband,home_utilities,5017.94,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0753,72.8974
+TXN100410,2024-08-01 20:22:50,PVR Cinemas,entertainment,1218.01,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0598,72.8968
+TXN100021,2024-08-02 21:49:02,Ola Cabs,travel,355.90,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0944,72.8838
+TXN100277,2024-08-04 13:05:44,Tata Power,home_utilities,4357.18,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0569,72.8951
+TXN100606,2024-08-05 05:44:25,Tata Power,home_utilities,1349.01,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1136,72.9114
+TXN100117,2024-08-05 09:38:09,PVR Cinemas,entertainment,881.75,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0408,72.8767
+TXN100111,2024-08-05 15:33:50,IndiGo Airlines,travel,3444.65,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0447,72.8872
+TXN100055,2024-08-05 23:07:24,1mg Healthcare,health_fitness,5164.44,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0390,72.8612
+TXN100619,2024-08-06 04:33:17,IRCTC Express,travel,6720.20,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0640,72.8673
+TXN100069,2024-08-06 04:36:22,IRCTC Express,travel,5335.86,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0420,72.8739
+TXN100460,2024-08-06 08:52:31,Ola Cabs,travel,6703.01,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0821,72.8700
+TXN100633,2024-08-06 12:11:24,Nykaa,shopping_net,11006.00,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,1,19.1142,72.8981
+TXN100614,2024-08-07 03:14:14,McDonalds India,food_dining,670.53,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0730,72.8566
+TXN100012,2024-08-07 03:27:40,IRCTC Express,travel,7084.89,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0741,72.9074
+TXN100496,2024-08-07 06:45:36,Spencer Retail,grocery_pos,2589.79,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0634,72.8402
+TXN100261,2024-08-07 08:36:23,PVR Cinemas,entertainment,586.21,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0639,72.8475
+TXN100096,2024-08-08 10:22:20,Tata Power,home_utilities,5075.98,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0784,72.8722
+TXN100427,2024-08-08 21:02:29,Dr Lal PathLabs,health_fitness,2859.33,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0402,72.8779
+TXN100389,2024-08-08 22:09:29,SonyLIV,entertainment,537.07,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0765,72.9166
+TXN100557,2024-08-10 02:27:47,Tata CLiQ,shopping_net,10272.07,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0559,72.9012
+TXN100081,2024-08-10 20:46:08,IRCTC Express,travel,1886.60,Aarav,Sharma,M,Delhi,Delhi,Software Engineer,0,28.7314,77.1326
+TXN100450,2024-08-12 12:22:53,Starbucks Coffee,food_dining,2149.72,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1037,72.8919
+TXN100023,2024-08-12 17:19:09,Ola Cabs,travel,4948.01,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0394,72.8817
+TXN100240,2024-08-13 22:14:53,BookMyShow,entertainment,354.60,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0546,72.8666
+TXN100009,2024-08-14 12:20:22,Amazon India,shopping_net,8321.11,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0373,72.8951
+TXN100631,2024-08-14 17:45:07,Airtel Broadband,home_utilities,3755.70,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0876,72.9012
+TXN100561,2024-08-16 10:17:52,Disney+ Hotstar,entertainment,1036.04,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0999,72.8644
+TXN100441,2024-08-16 11:30:43,D-Mart,grocery_pos,2962.06,Aarav,Sharma,M,Jaipur,Rajasthan,Software Engineer,0,26.9377,75.7540
+TXN100074,2024-08-17 05:59:16,McDonalds India,food_dining,1214.48,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0821,72.8540
+TXN100033,2024-08-17 10:21:09,IRCTC Express,travel,465.06,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0785,72.8417
+TXN100254,2024-08-18 01:47:26,BigBasket,grocery_pos,2366.53,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0418,72.8521
+TXN100179,2024-08-18 07:38:36,Starbucks Coffee,food_dining,2369.85,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0853,72.8756
+TXN100066,2024-08-18 08:57:54,Amazon India,shopping_net,12760.46,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0500,72.8467
+TXN100235,2024-08-18 11:22:26,Tata Power,home_utilities,1043.70,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0545,72.9017
+TXN100267,2024-08-18 18:43:05,BSES Yamuna,home_utilities,1736.01,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0969,72.8741
+TXN100331,2024-08-18 21:16:31,Haldirams,food_dining,287.67,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0504,72.8887
+TXN100440,2024-08-19 09:06:33,BookMyShow,entertainment,700.79,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0453,72.8915
+TXN100189,2024-08-20 01:18:14,Cult.fit,health_fitness,3840.08,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0509,72.8800
+TXN100628,2024-08-20 02:10:39,Netflix India,entertainment,847.03,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0982,72.8543
+TXN100623,2024-08-20 03:12:43,Myntra,shopping_net,1737.12,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0586,72.8692
+TXN100042,2024-08-21 10:38:33,Tata CLiQ,shopping_net,5494.95,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1037,72.8844
+TXN100468,2024-08-21 15:25:56,Apollo Pharmacy,health_fitness,5530.46,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0796,72.8389
+TXN100470,2024-08-22 19:20:51,Uber India,travel,5622.05,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0646,72.9153
+TXN100449,2024-08-23 01:20:39,BookMyShow,entertainment,1444.99,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0802,72.9014
+TXN100173,2024-08-23 08:12:35,Airtel Broadband,home_utilities,1085.00,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0936,72.9119
+TXN100034,2024-08-23 17:39:55,Spotify India,entertainment,1426.20,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1030,72.9008
+TXN100032,2024-08-25 00:23:31,Dr Lal PathLabs,health_fitness,635.14,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0408,72.9093
+TXN100184,2024-08-25 07:37:15,IndiGo Airlines,travel,7767.47,Aarav,Sharma,M,Chennai,Tamil Nadu,Software Engineer,0,13.0937,80.2431
+TXN100368,2024-08-26 02:20:29,BSES Yamuna,home_utilities,745.24,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1084,72.8526
+TXN100167,2024-08-26 12:08:05,Spotify India,entertainment,949.72,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1153,72.8690
+TXN100579,2024-08-29 11:21:58,Urban Company Home Care,home_utilities,3093.70,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0731,72.8703
+TXN100231,2024-08-31 11:07:11,Myntra,shopping_net,3645.10,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0475,72.9019
+TXN100071,2024-08-31 21:08:05,Reliance Fresh,grocery_pos,1845.18,Aarav,Sharma,M,Bengaluru,Karnataka,Software Engineer,0,12.9900,77.5933
+TXN100172,2024-09-01 03:34:49,Airtel Broadband,home_utilities,607.53,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0387,72.9079
+TXN100262,2024-09-02 05:35:06,BigBasket,grocery_pos,1016.64,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0900,72.8522
+TXN100072,2024-09-02 19:22:09,Jio Fiber,home_utilities,1727.03,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0960,72.9122
+TXN100093,2024-09-04 14:12:21,1mg Healthcare,health_fitness,440.08,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0585,72.8579
+TXN100538,2024-09-04 17:58:12,Disney+ Hotstar,entertainment,1511.90,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0973,72.8906
+TXN100135,2024-09-05 03:20:34,Croma Online,shopping_net,9867.16,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0638,72.8782
+TXN100428,2024-09-05 09:28:10,BookMyShow,entertainment,434.91,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0490,72.9041
+TXN100322,2024-09-05 15:21:32,Flipkart,shopping_net,6622.78,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1026,72.8511
+TXN100294,2024-09-06 00:31:07,SonyLIV,entertainment,533.27,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1065,72.8681
+TXN100100,2024-09-06 05:27:07,Tata Power,home_utilities,2624.72,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0777,72.9036
+TXN100563,2024-09-06 11:35:37,Disney+ Hotstar,entertainment,367.89,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0604,72.8590
+TXN100157,2024-09-06 23:37:09,Dr Lal PathLabs,health_fitness,4494.37,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1065,72.9158
+TXN100090,2024-09-07 09:52:09,Apollo Pharmacy,health_fitness,4229.60,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0934,72.8678
+TXN100273,2024-09-07 22:25:20,Cult.fit,health_fitness,2021.17,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0716,72.8635
+TXN100402,2024-09-08 03:00:25,More Retail,grocery_pos,3696.05,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0439,72.8664
+TXN100159,2024-09-08 16:02:22,Nature Basket,grocery_pos,4567.67,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0730,72.9010
+TXN100137,2024-09-09 07:06:21,Medplus,health_fitness,477.28,Aarav,Sharma,M,Bengaluru,Karnataka,Software Engineer,0,12.9470,77.5699
+TXN100082,2024-09-09 11:42:25,Jio Fiber,home_utilities,1597.83,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0587,72.8811
+TXN100075,2024-09-10 11:19:18,Ola Cabs,travel,5196.01,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0366,72.8778
+TXN100041,2024-09-10 15:39:09,More Retail,grocery_pos,3121.69,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1148,72.8755
+TXN100498,2024-09-13 08:19:53,Starbucks Coffee,food_dining,885.93,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0681,72.8601
+TXN100197,2024-09-14 22:05:28,SonyLIV,entertainment,1340.46,Aarav,Sharma,M,Delhi,Delhi,Software Engineer,0,28.7020,77.1392
+TXN100035,2024-09-15 14:53:32,RedBus,travel,6191.68,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0537,72.8618
+TXN100280,2024-09-16 01:25:56,Tata CLiQ,shopping_net,8805.79,Aarav,Sharma,M,Chennai,Tamil Nadu,Software Engineer,0,13.0510,80.2473
+TXN100246,2024-09-16 02:13:50,Dr Lal PathLabs,health_fitness,3948.04,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0724,72.8811
+TXN100363,2024-09-16 18:14:38,Paradise Biryani,food_dining,173.66,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0429,72.8666
+TXN100053,2024-09-17 10:43:38,Cult.fit,health_fitness,3560.68,Aarav,Sharma,M,Kolkata,West Bengal,Software Engineer,0,22.5389,88.3303
+TXN100393,2024-09-17 10:57:16,IndiGo Airlines,travel,974.33,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0396,72.8719
+TXN100019,2024-09-17 11:39:13,Croma Online,shopping_net,3680.79,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0695,72.8387
+TXN100433,2024-09-17 18:23:09,Myntra,shopping_net,11416.96,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0693,72.9071
+TXN100323,2024-09-19 01:20:32,Jio Fiber,home_utilities,3836.55,Aarav,Sharma,M,Kochi,Kerala,Software Engineer,0,9.9496,76.2327
+TXN100083,2024-09-19 02:54:21,Swiggy,food_dining,1197.32,Aarav,Sharma,M,Delhi,Delhi,Software Engineer,0,28.7066,77.0724
+TXN100533,2024-09-19 02:55:03,Reliance Fresh,grocery_pos,2006.90,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0442,72.8726
+TXN100540,2024-09-19 12:40:17,Amazon India,shopping_net,11811.71,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1033,72.8648
+TXN100063,2024-09-19 14:34:00,PVR Cinemas,entertainment,1332.56,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0598,72.8410
+TXN100050,2024-09-19 18:15:52,IndiGo Airlines,travel,6904.69,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0795,72.9067
+TXN100057,2024-09-20 02:45:04,Fastag Toll,travel,1079.58,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0855,72.8877
+TXN100395,2024-09-20 08:32:49,Dominos Pizza,food_dining,1522.30,Aarav,Sharma,M,Hyderabad,Telangana,Software Engineer,0,17.4078,78.4929
+TXN100229,2024-09-21 09:44:09,Cafe Coffee Day,food_dining,1352.99,Aarav,Sharma,M,Bengaluru,Karnataka,Software Engineer,0,12.9680,77.5880
+TXN100443,2024-09-22 14:18:50,BigBasket,grocery_pos,3964.71,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0795,72.8589
+TXN100586,2024-09-22 14:57:43,Netflix India,entertainment,1155.95,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0382,72.8835
+TXN100503,2024-09-23 11:52:29,Apollo Pharmacy,health_fitness,4997.03,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0944,72.8429
+TXN100334,2024-09-23 12:06:18,Amazon India,shopping_net,5354.46,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0745,72.9042
+TXN100499,2024-09-24 02:29:08,Nature Basket,grocery_pos,3977.98,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0777,72.8671
+TXN100288,2024-09-24 22:03:28,Myntra,shopping_net,5151.61,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0567,72.8783
+TXN100236,2024-09-25 03:25:14,Paradise Biryani,food_dining,1459.91,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0455,72.9138
+TXN100092,2024-09-25 07:05:05,Apollo Pharmacy,health_fitness,2672.35,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0399,72.9100
+TXN100347,2024-09-25 14:23:09,Airtel Broadband,home_utilities,3578.60,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1154,72.9149
+TXN100627,2024-09-25 14:51:49,SonyLIV,entertainment,1099.33,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0864,72.8773
+TXN100211,2024-09-26 02:23:04,Dominos Pizza,food_dining,1411.93,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0391,72.8502
+TXN100329,2024-09-26 20:21:04,Cult.fit,health_fitness,3343.13,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1136,72.8768
+TXN100199,2024-09-27 21:46:38,RedBus,travel,5491.23,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0760,72.8622
+TXN100128,2024-09-28 05:00:02,Amazon India,shopping_net,2992.67,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0598,72.8433
+TXN100571,2024-09-28 14:54:50,Ajio,shopping_net,1598.72,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0776,72.8388
+TXN100391,2024-09-30 09:42:00,MakeMyTrip,travel,6031.17,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0455,72.9133
+TXN100316,2024-09-30 14:54:50,Amazon India,shopping_net,9166.14,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0363,72.9130
+TXN100127,2024-09-30 17:56:45,Starbucks Coffee,food_dining,553.56,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0814,72.9012
+TXN100624,2024-10-01 15:09:51,Myntra,shopping_net,10045.97,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0960,72.8393
+TXN100089,2024-10-01 23:14:08,Myntra,shopping_net,13116.36,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1137,72.8849
+TXN100512,2024-10-02 22:41:37,RedBus,travel,8032.82,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0944,72.8467
+TXN100378,2024-10-03 11:05:41,Fastag Toll,travel,7246.91,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0894,72.9063
+TXN100358,2024-10-03 11:15:02,Spencer Retail,grocery_pos,706.24,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1069,72.8635
+TXN100411,2024-10-04 21:16:07,Spotify India,entertainment,443.65,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0559,72.9097
+TXN100479,2024-10-04 21:23:13,Ola Cabs,travel,397.81,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0482,72.8615
+TXN100535,2024-10-05 22:06:38,Apollo Pharmacy,health_fitness,5652.13,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1091,72.8865
+TXN100603,2024-10-06 23:40:08,Amazon India,shopping_net,2911.51,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1111,72.8803
+TXN100219,2024-10-07 04:01:37,PVR Cinemas,entertainment,884.23,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0413,72.9081
+TXN100251,2024-10-07 07:27:53,Airtel Broadband,home_utilities,4655.15,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1008,72.8574
+TXN100448,2024-10-07 09:22:35,1mg Healthcare,health_fitness,781.83,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0718,72.8570
+TXN100456,2024-10-08 10:30:20,SonyLIV,entertainment,875.30,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1077,72.9063
+TXN100216,2024-10-08 14:56:12,Spotify India,entertainment,867.16,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1088,72.8582
+TXN100001,2024-10-08 17:24:29,Netflix India,entertainment,1286.98,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0390,72.9150
+TXN100523,2024-10-09 06:23:07,Dr Lal PathLabs,health_fitness,449.90,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0820,72.8807
+TXN100493,2024-10-09 19:54:59,Reliance Fresh,grocery_pos,2813.81,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0571,72.9010
+TXN100018,2024-10-10 18:30:05,SonyLIV,entertainment,977.86,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0590,72.8486
+TXN100380,2024-10-10 19:58:29,BSES Yamuna,home_utilities,2865.28,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0645,72.9039
+TXN100177,2024-10-11 11:08:44,BSES Yamuna,home_utilities,2843.47,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0764,72.8563
+TXN100337,2024-10-12 18:22:27,Medplus,health_fitness,3302.22,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1082,72.8812
+TXN100044,2024-10-12 23:00:59,Starbucks Coffee,food_dining,2241.44,Aarav,Sharma,M,Kolkata,West Bengal,Software Engineer,0,22.5364,88.3537
+TXN100379,2024-10-13 01:02:47,SonyLIV,entertainment,208.77,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0711,72.8645
+TXN100286,2024-10-13 07:54:54,Myntra,shopping_net,4379.33,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0964,72.8860
+TXN100548,2024-10-13 14:18:29,Spotify India,entertainment,300.72,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0897,72.8889
+TXN100221,2024-10-13 22:18:26,Myntra,shopping_net,6233.90,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1126,72.8556
+TXN100527,2024-10-15 05:10:35,Airtel Broadband,home_utilities,1587.10,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0463,72.8864
+TXN100136,2024-10-16 07:49:52,Disney+ Hotstar,entertainment,1501.46,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0672,72.8909
+TXN100574,2024-10-16 10:47:30,More Retail,grocery_pos,1237.94,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1054,72.8645
+TXN100077,2024-10-19 22:36:18,Tata Power,home_utilities,3029.17,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1017,72.9095
+TXN100644,2024-10-20 15:41:37,Starbucks Coffee,food_dining,325.39,Aarav,Sharma,M,Delhi,Delhi,Software Engineer,0,28.6818,77.1310
+TXN100306,2024-10-20 16:45:09,Medplus,health_fitness,5392.58,Aarav,Sharma,M,Hyderabad,Telangana,Software Engineer,0,17.3717,78.4805
+TXN100600,2024-10-22 08:39:43,Croma Online,shopping_net,14216.52,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0501,72.8825
+TXN100531,2024-10-24 00:30:53,McDonalds India,food_dining,1595.95,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0879,72.8475
+TXN100549,2024-10-25 09:35:43,Urban Company Home Care,home_utilities,4741.53,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0833,72.8878
+TXN100439,2024-10-25 19:20:50,Zomato,food_dining,1157.42,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0869,72.8909
+TXN100098,2024-10-26 05:57:44,Tata CLiQ,shopping_net,4496.06,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1053,72.8827
+TXN100454,2024-10-26 12:35:50,IndiGo Airlines,travel,5821.31,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0656,72.8786
+TXN100292,2024-10-26 14:10:49,Dr Lal PathLabs,health_fitness,5126.81,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0965,72.8772
+TXN100244,2024-10-27 04:23:52,Fastag Toll,travel,8096.01,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1059,72.8585
+TXN100140,2024-10-27 08:41:23,BigBasket,grocery_pos,2068.56,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0524,72.8694
+TXN100207,2024-10-31 08:03:20,MakeMyTrip,travel,4466.29,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1057,72.8862
+TXN100530,2024-10-31 17:48:52,Dominos Pizza,food_dining,2013.16,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0531,72.8571
+TXN100320,2024-10-31 18:02:55,MakeMyTrip,travel,3926.54,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0616,72.8945
+TXN100346,2024-11-01 10:57:28,Amazon India,shopping_net,12828.39,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0486,72.8627
+TXN100418,2024-11-02 22:29:40,Swiggy,food_dining,947.86,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0402,72.9072
+TXN100451,2024-11-03 09:32:21,Fastag Toll,travel,2643.38,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0744,72.8981
+TXN100025,2024-11-03 15:12:19,Amazon India,shopping_net,3088.86,Aarav,Sharma,M,Jaipur,Rajasthan,Software Engineer,0,26.8980,75.8186
+TXN100366,2024-11-03 16:14:47,Flipkart,shopping_net,9260.40,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0693,72.9042
+TXN100435,2024-11-04 18:58:02,Paradise Biryani,food_dining,1157.41,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0820,72.8790
+TXN100263,2024-11-05 03:13:20,Paradise Biryani,food_dining,1552.36,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0384,72.8627
+TXN100396,2024-11-05 13:18:13,1mg Healthcare,health_fitness,308.87,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0741,72.8566
+TXN100489,2024-11-05 21:20:04,BookMyShow,entertainment,1084.45,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0558,72.8378
+TXN100414,2024-11-06 03:37:25,Amazon India,shopping_net,12868.46,Aarav,Sharma,M,Ahmedabad,Gujarat,Software Engineer,0,23.0433,72.5571
+TXN100463,2024-11-06 04:22:23,McDonalds India,food_dining,1947.98,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0637,72.8647
+TXN100064,2024-11-06 06:23:10,Medplus,health_fitness,874.40,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0629,72.9155
+TXN100544,2024-11-06 07:11:56,Tata Power,home_utilities,1530.09,Aarav,Sharma,M,Jaipur,Rajasthan,Software Engineer,0,26.9210,75.8213
+TXN100166,2024-11-06 07:30:50,IRCTC Express,travel,7708.24,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0694,72.8966
+TXN100442,2024-11-06 10:45:47,Disney+ Hotstar,entertainment,1416.20,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0425,72.9150
+TXN100115,2024-11-07 03:27:31,Haldirams,food_dining,980.93,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0831,72.8654
+TXN100201,2024-11-07 10:33:20,BSES Yamuna,home_utilities,3518.67,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0645,72.8606
+TXN100188,2024-11-07 22:08:50,Fastag Toll,travel,6775.85,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0491,72.8749
+TXN100268,2024-11-08 12:11:35,Reliance Fresh,grocery_pos,2296.74,Aarav,Sharma,M,Kochi,Kerala,Software Engineer,0,9.9476,76.2530
+TXN100362,2024-11-08 12:29:44,Ajio,shopping_net,1021.83,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0965,72.8849
+TXN100205,2024-11-08 21:22:16,Spotify India,entertainment,923.40,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0743,72.8872
+TXN100438,2024-11-10 05:30:04,Blinkit,grocery_pos,3972.40,Aarav,Sharma,M,Delhi,Delhi,Software Engineer,0,28.7084,77.0667
+TXN100634,2024-11-11 16:44:12,Dr Lal PathLabs,health_fitness,3888.50,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0501,72.8612
+TXN100521,2024-11-13 02:31:27,Blinkit,grocery_pos,905.75,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0842,72.8814
+TXN100147,2024-11-13 13:52:42,1mg Healthcare,health_fitness,4573.25,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1065,72.9159
+TXN100037,2024-11-15 16:32:47,Dr Lal PathLabs,health_fitness,2273.76,Aarav,Sharma,M,Jaipur,Rajasthan,Software Engineer,0,26.8993,75.8010
+TXN100497,2024-11-16 16:13:35,Medplus,health_fitness,2009.33,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0474,72.8885
+TXN100472,2024-11-16 21:43:16,Myntra,shopping_net,8423.95,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1116,72.8618
+TXN100636,2024-11-17 21:26:39,Nature Basket,grocery_pos,4782.99,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0911,72.9115
+TXN100465,2024-11-18 01:42:50,More Retail,grocery_pos,4191.68,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0775,72.8799
+TXN100257,2024-11-18 05:22:50,Nature Basket,grocery_pos,974.63,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0672,72.8611
+TXN100484,2024-11-18 13:36:27,Ajio,shopping_net,12895.92,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1048,72.8852
+TXN100259,2024-11-19 18:51:22,Apollo Pharmacy,health_fitness,4279.49,Aarav,Sharma,M,Kolkata,West Bengal,Software Engineer,0,22.5821,88.3407
+TXN100453,2024-11-19 20:16:18,More Retail,grocery_pos,1925.93,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1024,72.8440
+TXN100160,2024-11-20 04:26:18,1mg Healthcare,health_fitness,1175.08,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1058,72.8573
+TXN100026,2024-11-21 07:24:09,Croma Online,shopping_net,5502.23,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1052,72.8750
+TXN100225,2024-11-21 09:18:59,Starbucks Coffee,food_dining,1828.97,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0887,72.8555
+TXN100287,2024-11-21 17:23:48,1mg Healthcare,health_fitness,1369.31,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0786,72.9013
+TXN100209,2024-11-22 18:36:20,Disney+ Hotstar,entertainment,498.69,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0514,72.8508
+TXN100637,2024-11-23 17:42:21,BigBasket,grocery_pos,1185.70,Aarav,Sharma,M,Bengaluru,Karnataka,Software Engineer,0,12.9562,77.5778
+TXN100272,2024-11-24 06:07:24,Amazon India,shopping_net,7487.00,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0627,72.8653
+TXN100006,2024-11-24 11:35:38,Airtel Broadband,home_utilities,4761.38,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0778,72.9115
+TXN100507,2024-11-24 23:29:26,Spencer Retail,grocery_pos,3544.58,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1039,72.8377
+TXN100412,2024-11-27 03:35:35,Blinkit,grocery_pos,2151.85,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0567,72.9137
+TXN100568,2024-11-27 06:53:44,1mg Healthcare,health_fitness,1421.28,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0941,72.9145
+TXN100502,2024-11-28 04:26:13,Nykaa,shopping_net,2640.77,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0815,72.8406
+TXN100643,2024-11-29 08:46:34,Swiggy,food_dining,774.87,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0904,72.8610
+TXN100401,2024-11-29 12:32:23,Airtel Broadband,home_utilities,1646.01,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0923,72.8381
+TXN100139,2024-11-30 06:27:07,1mg Healthcare,health_fitness,1703.82,Aarav,Sharma,M,Chennai,Tamil Nadu,Software Engineer,0,13.0768,80.2350
+TXN100190,2024-11-30 12:19:37,McDonalds India,food_dining,143.42,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0406,72.8409
+TXN100169,2024-11-30 12:57:01,Tata CLiQ,shopping_net,3335.13,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0781,72.9173
+TXN100436,2024-12-01 07:01:54,Jio Fiber,home_utilities,4309.32,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0770,72.8967
+TXN100400,2024-12-01 12:17:12,BSES Yamuna,home_utilities,5431.77,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1076,72.8946
+TXN100192,2024-12-01 15:16:46,BSES Yamuna,home_utilities,4377.02,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0620,72.9123
+TXN100423,2024-12-02 20:16:29,Myntra,shopping_net,2236.81,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1009,72.8611
+TXN100525,2024-12-03 04:25:27,Ola Cabs,travel,3010.77,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0703,72.8893
+TXN100647,2024-12-03 05:29:01,MakeMyTrip,travel,7143.68,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0818,72.8677
+TXN100648,2024-12-03 12:48:39,Disney+ Hotstar,entertainment,940.51,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0714,72.8537
+TXN100309,2024-12-04 03:07:03,Cafe Coffee Day,food_dining,1410.70,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0905,72.8654
+TXN100218,2024-12-05 03:01:51,Dominos Pizza,food_dining,1381.85,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0663,72.8716
+TXN100585,2024-12-06 05:42:51,McDonalds India,food_dining,138.69,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0428,72.8673
+TXN100132,2024-12-06 14:10:01,Zomato,food_dining,592.31,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0430,72.8622
+TXN100416,2024-12-07 03:17:20,Urban Company Home Care,home_utilities,1515.73,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0372,72.9079
+TXN100573,2024-12-07 18:53:59,Urban Company Home Care,home_utilities,5186.17,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0862,72.8653
+TXN100344,2024-12-08 08:12:18,Paradise Biryani,food_dining,1591.65,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0742,72.8709
+TXN100278,2024-12-08 18:49:12,More Retail,grocery_pos,2451.82,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0978,72.8645
+TXN100446,2024-12-09 20:58:12,Apollo Pharmacy,health_fitness,1989.24,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0785,72.8671
+TXN100645,2024-12-10 12:13:21,Airtel Broadband,home_utilities,5406.47,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1014,72.8563
+TXN100087,2024-12-11 11:59:56,Dr Lal PathLabs,health_fitness,3893.83,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1113,72.8870
+TXN100065,2024-12-11 17:31:37,Spotify India,entertainment,641.94,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0726,72.8830
+TXN100567,2024-12-11 18:17:07,Zomato,food_dining,546.12,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1048,72.8823
+TXN100010,2024-12-12 05:20:19,Spotify India,entertainment,533.99,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0882,72.8384
+TXN100509,2024-12-12 11:59:17,Amazon India,shopping_net,2793.76,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0935,72.8403
+TXN100220,2024-12-12 14:10:49,SonyLIV,entertainment,1212.10,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1077,72.8427
+TXN100515,2024-12-12 15:05:25,Tata CLiQ,shopping_net,7680.35,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1013,72.8403
+TXN100110,2024-12-13 04:00:09,Airtel Broadband,home_utilities,1915.09,Aarav,Sharma,M,Kochi,Kerala,Software Engineer,0,9.9599,76.2554
+TXN100060,2024-12-13 04:17:05,Fastag Toll,travel,5450.90,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0546,72.8910
+TXN100629,2024-12-13 12:01:24,Netflix India,entertainment,571.69,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0913,72.8765
+TXN100233,2024-12-14 01:36:37,Disney+ Hotstar,entertainment,1418.23,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0982,72.8656
+TXN100313,2024-12-14 14:41:34,Medplus,health_fitness,871.24,Aarav,Sharma,M,Pune,Maharashtra,Software Engineer,0,18.4834,73.8293
+TXN100168,2024-12-15 00:37:28,BookMyShow,entertainment,1053.68,Aarav,Sharma,M,Kochi,Kerala,Software Engineer,0,9.9022,76.2588
+TXN100270,2024-12-15 05:05:57,Nykaa,shopping_net,6241.85,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1069,72.9032
+TXN100321,2024-12-16 07:11:58,Nykaa,shopping_net,5937.42,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0628,72.8537
+TXN100332,2024-12-16 07:50:02,Airtel Broadband,home_utilities,2625.88,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0480,72.8519
+TXN100587,2024-12-16 14:02:01,Ola Cabs,travel,843.41,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0862,72.8502
+TXN100357,2024-12-16 14:19:40,Airtel Broadband,home_utilities,807.83,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.1151,72.8685
+TXN100194,2024-12-17 02:11:20,More Retail,grocery_pos,755.93,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0846,72.8704
+TXN100070,2024-12-17 13:58:10,Reliance Fresh,grocery_pos,3817.79,Aarav,Sharma,M,Jaipur,Rajasthan,Software Engineer,0,26.8897,75.8139
+TXN100046,2024-12-18 02:29:16,Disney+ Hotstar,entertainment,783.93,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0611,72.8635
+TXN100324,2024-12-18 13:36:12,Ola Cabs,travel,5340.64,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0459,72.8817
+TXN100206,2024-12-19 00:31:15,Tata CLiQ,shopping_net,7184.68,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0612,72.9161
+TXN100122,2024-12-21 01:30:14,Medplus,health_fitness,3686.37,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0871,72.8674
+TXN100149,2024-12-23 00:44:56,Uber India,travel,5236.12,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0835,72.8829
+TXN100038,2024-12-23 10:21:29,RedBus,travel,3862.60,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0959,72.8824
+TXN100058,2024-12-24 01:30:40,Airtel Broadband,home_utilities,2093.81,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0938,72.8642
+TXN100224,2024-12-24 01:55:18,Jio Fiber,home_utilities,2570.34,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0599,72.8626
+TXN100133,2024-12-25 03:18:43,More Retail,grocery_pos,3908.26,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0559,72.8518
+TXN100592,2024-12-25 06:37:32,Spotify India,entertainment,613.76,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0398,72.8551
+TXN100315,2024-12-26 18:19:34,1mg Healthcare,health_fitness,923.24,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0660,72.8412
+TXN100608,2024-12-26 23:50:23,Paradise Biryani,food_dining,714.59,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0627,72.8646
+TXN100016,2024-12-28 17:32:28,D-Mart,grocery_pos,3777.14,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0741,72.9031
+TXN100091,2024-12-29 14:36:34,Urban Company Home Care,home_utilities,4812.76,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0377,72.8885
+TXN100171,2024-12-30 16:11:25,Dominos Pizza,food_dining,1110.79,Aarav,Sharma,M,Mumbai,Maharashtra,Software Engineer,0,19.0784,72.8916

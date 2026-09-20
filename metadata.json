@@ -1,0 +1,8 @@
+{
+  "name": "Your Life, in Receipts",
+  "description": "An interactive cinematic investigation transforming 2,461 real transaction receipts into patterns, connections, insights, and a personal life story.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,0 +1,89 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --accent: #38bdf8;
+    --accent-soft: rgba(56, 189, 248, 0.15);
+    --accent-glow: rgba(56, 189, 248, 0.35);
+    --accent-rgb: 56, 189, 248;
+    --bg-dark: #07090e;
+    --card-bg: rgba(15, 23, 42, 0.65);
+    --card-border: rgba(148, 163, 184, 0.12);
+  }
+
+  body {
+    background-color: var(--bg-dark);
+    color: #f1f5f9;
+    font-family: 'Plus Jakarta Sans', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    overflow-x: hidden;
+  }
+
+  h1, h2, h3, .font-editorial {
+    font-family: 'Cinzel', serif, system-ui;
+  }
+
+  .font-mono-receipt {
+    font-family: 'JetBrains Mono', monospace;
+  }
+}
+
+/* Cinematic Atmospheric Background */
+.bg-cinematic-grid {
+  background-size: 40px 40px;
+  background-image: 
+    linear-gradient(to right, rgba(255, 255, 255, 0.02) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(255, 255, 255, 0.02) 1px, transparent 1px);
+}
+
+.bg-radial-glow {
+  background: radial-gradient(circle at 50% 15%, var(--accent-glow) 0%, transparent 65%);
+}
+
+/* Glass panel */
+.glass-panel {
+  background: rgba(13, 18, 30, 0.72);
+  backdrop-filter: blur(14px);
+  -webkit-backdrop-filter: blur(14px);
+  border: 1px solid var(--card-border);
+}
+
+.glass-panel-hover {
+  transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+}
+.glass-panel-hover:hover {
+  border-color: rgba(var(--accent-rgb), 0.4);
+  box-shadow: 0 8px 32px -4px var(--accent-soft);
+}
+
+/* Custom receipt paper texture & jagged edge */
+.receipt-paper {
+  background: #0f1422;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  box-shadow: 0 20px 40px -15px rgba(0, 0, 0, 0.7);
+  position: relative;
+}
+
+.receipt-zigzag {
+  background: radial-gradient(circle, transparent, transparent 50%, #0f1422 50%, #0f1422 100%);
+  background-size: 14px 14px;
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: rgba(10, 14, 23, 0.5);
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(148, 163, 184, 0.25);
+  border-radius: 9999px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--accent);
+}
+
